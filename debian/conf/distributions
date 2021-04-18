@@ -1,0 +1,9 @@
+Origin: www.wrljet.com
+Label: www.wrljet.com
+Codename: testing
+Architectures: amd64
+Components: main
+Description: Example APT Repository
+SignWith: C588BCBC197A471DC3E8FD4163E5582C0E47701B
+DebOverride: override.testing
+DscOverride: override.testing

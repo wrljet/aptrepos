@@ -1,0 +1,19 @@
+Origin: www.wrljet.com
+Label: www.wrljet.com
+Codename: testing
+Date: Sun, 18 Apr 2021 19:24:34 UTC
+Architectures: amd64
+Components: main
+Description: Example APT Repository
+MD5Sum:
+ 0070bec0ebe4aa0b63c4f313661e98dc 670 main/binary-amd64/Packages
+ ebdf176741405da10ba9635cf82c5e3d 465 main/binary-amd64/Packages.gz
+ 4105c37f7792d6449a773bf60a4ff82e 117 main/binary-amd64/Release
+SHA1:
+ ebef8ebd6aed8a7fe2d588f36ae09459dea765e5 670 main/binary-amd64/Packages
+ a2164ce09396b42149c6e5b349c71ee290910ea0 465 main/binary-amd64/Packages.gz
+ aee7139dffa7ec278ff802fdc30de7660368b98f 117 main/binary-amd64/Release
+SHA256:
+ 3b9e4145cd1f1d5fc5a9c6e067330073ce25368e5c04c13a958d6ef196616c4b 670 main/binary-amd64/Packages
+ 26da2e9556cb71e02adddab64389096f0001a538f1164b123dda5d7eae6b2962 465 main/binary-amd64/Packages.gz
+ 51cc258868335e39d0294f9c42bd00621c8ae66b616cb8a92612e221a828a4c9 117 main/binary-amd64/Release

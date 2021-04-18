@@ -1,0 +1,5 @@
+Component: main
+Origin: www.wrljet.com
+Label: www.wrljet.com
+Architecture: amd64
+Description: Example APT Repository

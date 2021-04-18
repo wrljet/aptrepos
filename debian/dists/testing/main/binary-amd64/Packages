@@ -1,0 +1,18 @@
+Package: hyperion
+Version: 4.4.9999.0-SDL-g2ca4bb57
+Architecture: amd64
+Maintainer: Bill Lewis <bill@wrljet.com>
+Depends: libbz2-1.0,zlib1g
+Installed-Size: 13000
+Homepage: http://www.wrljet.com
+Tags: hercules hyperion
+Priority: optional
+Section: utils
+Filename: pool/main/h/hyperion/hyperion_4.4.9999.0-SDL-g2ca4bb57_amd64.deb
+Size: 2594560
+SHA256: 92634ee86b18c9fe2fa57c4ce7f88353a883a5c55d176dc678f2ade2870bf14d
+SHA1: c63188be616ede94133223faf543ea17f3995475
+MD5sum: dc7272252960bf1f793cbdbcbd843bcf
+Description: SDL-Hercules-390, built with Hercules-Helper
+ The SoftDevLabs (SDL) version of the Hercules 4.x Hyperion System/370, ESA/390, and z/Architecture Emulator
+
