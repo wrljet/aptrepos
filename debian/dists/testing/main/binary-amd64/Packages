@@ -1,4 +1,4 @@
-Package: hyperion
+Package: hyperion-4.3
 Version: 4.3.0.0-SDL
 Architecture: amd64
 Maintainer: Bill Lewis <bill@wrljet.com>
@@ -8,11 +8,11 @@ Homepage: http://www.wrljet.com
 Tags: hercules hyperion
 Priority: optional
 Section: utils
-Filename: pool/main/h/hyperion/hyperion_4.3.0.0-SDL_amd64.deb
-Size: 2587688
-SHA256: a9a705646a872220cd8d6aec05032b6fe7abbe5740ac0a4f8d77969b8bb20519
-SHA1: b3a41879913615f8e973f587944c94de18047026
-MD5sum: da3d95d23802fa225fba4aa650bb1c07
+Filename: pool/main/h/hyperion-4.3/hyperion-4.3_4.3.0.0-SDL_amd64.deb
+Size: 2584264
+SHA256: 3026a7defd0c2386cdc8d4a9e2836432662af5fa2e75d27421a1e4912578bc2d
+SHA1: 62c0a700d4c7f7117a689e977bdf99cf07da3d4b
+MD5sum: c92416314c7a8efeb0ec520dcdefe78f
 Description: SDL-Hercules-390, built with Hercules-Helper
  The SoftDevLabs (SDL) version of the Hercules 4.x Hyperion System/370, ESA/390, and z/Architecture Emulator
 
