@@ -34,3 +34,21 @@ MD5sum: 9fb4f39183dadd163966349ca4d7962d
 Description: SDL-Hercules-390, built with Hercules-Helper
  The SoftDevLabs (SDL) version of the Hercules 4.x Hyperion System/370, ESA/390, and z/Architecture Emulator
 
+Package: hyperion-4.4-rc1
+Version: 4.4.9999.0-SDL-g99b07a53
+Architecture: amd64
+Maintainer: Bill Lewis <bill@wrljet.com>
+Depends: libbz2-1.0,zlib1g
+Installed-Size: 13000
+Homepage: http://www.wrljet.com
+Tags: hercules hyperion
+Priority: optional
+Section: utils
+Filename: pool/main/h/hyperion-4.4-rc1/hyperion-4.4-rc1_4.4.9999.0-SDL-g99b07a53_amd64.deb
+Size: 11191124
+SHA256: 3112d7f35b2d2daccb3375c0a6e4d0ccece5b17c377b24fed92fb096cba2e682
+SHA1: 3cac362b593fa946718e63160ad7197a98cd6128
+MD5sum: bbdb2b138fae66c83930695af81fdea5
+Description: SDL-Hercules-390, built with Hercules-Helper
+ The SoftDevLabs (SDL) version of the Hercules 4.x Hyperion System/370, ESA/390, and z/Architecture Emulator
+
